@@ -1,0 +1,15 @@
+streamlit
+nltk
+numpy
+pandas
+pillow
+torch
+torchvision
+torchaudio
+transformers
+scikit-learn
+keras
+tensorflow
+pytesseract
+demoji
+pickle-mixin
